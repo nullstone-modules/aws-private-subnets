@@ -1,0 +1,13 @@
+org_name: nullstone
+name: aws-private-subnets
+friendly_name: AWS Private Subnets
+description: Creates private subnets with a single NAT gateway in an existing VPC
+category: block
+subcategory: ""
+provider_types:
+    - aws
+platform: vpc
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
